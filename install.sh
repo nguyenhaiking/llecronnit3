@@ -8,9 +8,9 @@
 #
 # It's safe to re-run this script
 
-hostname="reddhubs.com"
-client_id="FMHpO4I8ovXyNMQQIz7YnQ"
-client_secret="wP6BS4I9CggELaSxqrrbqpe5qk_0nw"
+hostname="mixcloth.com"
+client_id="yyWIdBw96x4K02Qh7UiUSw"
+client_secret="EFGJs2yzHxW8jHg30IEmyxCeEWx3FA"
 email="nguyenhaiking@gmail.com"
 
 # Make sure we are running as root
